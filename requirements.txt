@@ -6,7 +6,7 @@ pandas==1.5.3
 # Web scraping / API interaction
 beautifulsoup4==4.11.1
 lxml==4.9.3
-selenium==4.8.0
+selenium==4.29.0
 
 # Machine learning
 scikit-learn==1.2.0
