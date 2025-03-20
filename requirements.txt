@@ -4,7 +4,7 @@ numpy==1.24.2
 pandas==1.5.3
 
 # Web scraping / API interaction
-beautifulsoup4==4.11.1
+beautifulsoup4==4.13.3
 lxml==4.9.3
 selenium==4.8.0
 
