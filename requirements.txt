@@ -1,7 +1,7 @@
 # General dependencies for Python projects
 requests==2.28.1
 numpy==1.24.2
-pandas==1.5.3
+pandas==2.2.3
 
 # Web scraping / API interaction
 beautifulsoup4==4.11.1
